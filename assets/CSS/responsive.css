@@ -1,0 +1,14 @@
+@media (max-width: 580px) {
+    .box-menu ul li{
+        margin-bottom: 10px;
+    }
+    .btn-owork{
+        margin-left: -10%;
+    }
+    .btn-client{
+        margin: 60px 0;
+    }
+    .contact_form{
+    margin-left: -25px;
+    }
+}
